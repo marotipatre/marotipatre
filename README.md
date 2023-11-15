@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Web3 Developer</h1>
-<h3 align="center">A passionate web3 developer from India</h3>
+<h1 align="center">Gm 👋, I'm Web3 Developer</h1>
+<h3 align="center">A passionate student--web3 developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/vaibhav2641" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav2641?logo=twitter&style=for-the-badge" alt="vaibhav2641" /></a> </p>
 
