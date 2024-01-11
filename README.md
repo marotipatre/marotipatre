@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React Native,Rust,Move and PyTeal**
 
+- Building Scaffold-APT ( Devtool for Aptos )
+
 - 📝 I regularly write articles on [https://hashnode.com/@maroti](https://hashnode.com/@maroti)
 
 - 💬 Ask me about **blockchains,solidity,DeFi**
