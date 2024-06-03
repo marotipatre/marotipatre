@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhav2641" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav2641?logo=twitter&style=for-the-badge" alt="vaibhav2641" /></a> </p>
 
-- 🌱 I’m currently learning **React Native,Rust,Move and PyTeal**
+- 🌱 I’m currently learning **React Native,Rust,Move and Tact**
 
 - Building Scaffold-APT ( Devtool for Aptos )
 
@@ -11,7 +11,10 @@
 
 - 💬 Ask me about **blockchains,solidity,DeFi**
 
+- Passionately building Web3 Communities
+
 - 📫 How to reach me **marotipatre5@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
