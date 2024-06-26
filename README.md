@@ -3,15 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhav2641" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav2641?logo=twitter&style=for-the-badge" alt="vaibhav2641" /></a> </p>
 
-- 🌱 I’m currently learning **React Native,Rust,Move and Tact**
+- 🌱 I’m currently learning **React Native,Rust,Move,PyTeal and Tact**
 
 - Building Scaffold-APT ( Devtool for Aptos )
+
+- Working over AssetNEst ( Decentralised Asset manager )
 
 - 📝 I regularly write articles on [https://hashnode.com/@maroti](https://hashnode.com/@maroti)
 
 - 💬 Ask me about **blockchains,solidity,DeFi**
 
-- Passionately building Web3 Communities
+- Passionately building Web3 Communities, working as regional ambassador for Algorand
 
 - 📫 How to reach me **marotipatre5@gmail.com**
   
