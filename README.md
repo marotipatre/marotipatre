@@ -7,7 +7,9 @@
 
 - Building Scaffold-APT ( Devtool for Aptos )
 
-- Working over AssetNEst - Decentralised Asset manager 
+- Working over AssetNEst - Decentralised Asset manager
+
+- 🏆 3x Hackathon Winner 
 
 - 📝 I regularly write articles on [https://hashnode.com/@maroti](https://hashnode.com/@maroti)
 
