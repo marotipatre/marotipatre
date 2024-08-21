@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/maroti_ps" target="blank"><img src="https://img.shields.io/twitter/follow/maroti_ps?logo=twitter&style=for-the-badge" alt="maroti_ps" /></a> </p>
 
-- 🌱 I’m currently learning **React Native,Rust,Move,PyTeal and Tact**
-
-- Building Scaffold-APT ( Devtool for Aptos )
+- 🌱 I’m currently learning **ReactJs,PyTeal and Tact**
 
 - Working over AssetNEst - Decentralised Asset manager
 
-- 🏆 3x Hackathon Winner 
+- 🏆 4x Hackathon Winner 
 
 - 📝 I regularly write articles on [https://hashnode.com/@maroti](https://hashnode.com/@maroti)
 
