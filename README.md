@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/maroti_ps" target="blank"><img src="https://img.shields.io/twitter/follow/maroti_ps?logo=twitter&style=for-the-badge" alt="maroti_ps" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs,PyTeal and Tact**
+- 🌱 I’m currently learning **ReactJs,PyTeal and Move**
 
 - Working on Gigster  
 
