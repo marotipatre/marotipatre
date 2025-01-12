@@ -9,7 +9,7 @@
 
 - Working over AssetNEst - Decentralised Asset manager
 
-- 🏆 4x Hackathon Winner 
+- 🏆 7x Hackathon Winner 
 
 - 📝 I regularly write articles on [https://hashnode.com/@maroti](https://hashnode.com/@maroti)
 
